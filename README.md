@@ -51,3 +51,16 @@ Yang terakhir saya mengubah latar dasar menjadi warna abu - abu
 ![16](https://user-images.githubusercontent.com/81820997/113436558-1ef93180-940f-11eb-9b15-b65623958edc.PNG)
 
 Sekian penjelsan yang saya buat, terimaksih.
+
+
+Jawab Pertanyaan Berikut
+
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? Ya terjadi error pada penulisan tag
+
+3. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya! Tag <p> memiliki pasangan penutup pada akhir paragraf, sedangkan tag <br> tidak memiliki pasangan penutup
+ 
+5. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya! tittle imgae adalah atribut yang dapat di tambahkan ke tag gambar dalam HTML, sedangkan tittle alt sebagai wadah ketika gambar tidak bisa ditampilkan
+ 
+7. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! Ya, agar lebih tepat saat ingin mengubahnya
+
+9. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? _blank untuk membuka link di tab baru, _self untuk membuka link di frame itu berada, _top untuk memuka link di frame paling atas (paling luar), _parent untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada 
