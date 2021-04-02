@@ -1,6 +1,7 @@
 # Lab1Web
 
 Saya akan membuat html dengan menggunakan visual studio code.
+
 Pertama membuat file yg di simpan dengan nama lab1_tag_dasar.html. Gambar dibawah ini adalah code dasar membuat html menggunkan vs code.
 
 ![1](https://user-images.githubusercontent.com/81820997/113430834-0f74eb00-9405-11eb-9a14-191c1818ba1f.PNG)
@@ -10,6 +11,7 @@ Hasilnya seperti ini
 ![2](https://user-images.githubusercontent.com/81820997/113430873-1d2a7080-9405-11eb-83eb-ae7323bf93db.PNG)
 
 Selanjutnya cara memasukan paragraf atau kalimat pada html menggunakan tag <p>text</p>.
+
 Untuk menambahkan judul menggunkan tag <h>text</h>.
 
 ![3](https://user-images.githubusercontent.com/81820997/113430888-21568e00-9405-11eb-9a62-dfecc32eb9dd.PNG)
@@ -19,8 +21,11 @@ Hasilnya seperti ini
 ![4](https://user-images.githubusercontent.com/81820997/113430930-3501f480-9405-11eb-85a2-a6e045f86412.PNG)
 
 kemudian cara mengubahan text, contohnya dibawah ini :
+
 > Warna dengan tag <font style = "background: color;"> text</font>
+> 
 > Garis miring dengan tag <i>text</i>
+> 
 > Blod menggunakan tag <b>text</b>
 
 ![5](https://user-images.githubusercontent.com/81820997/113430938-37644e80-9405-11eb-9e55-33ad41c39f4a.PNG)
