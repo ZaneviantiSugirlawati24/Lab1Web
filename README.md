@@ -32,7 +32,14 @@ Pada gambar ini saya mencoba mengubah paragraf kedua menjadi text yang lebih bes
 
 ![0](https://user-images.githubusercontent.com/81820997/113435498-21f32280-940d-11eb-8dcf-7fb28c8bd126.PNG)
 
+Pada gambar ini cara menambahkan sebuah gambar dengan menggunakan tag img
 
 ![10](https://user-images.githubusercontent.com/81820997/113435773-acd41d00-940d-11eb-8515-a0e1ea316887.PNG)
 
 ![11](https://user-images.githubusercontent.com/81820997/113435780-afcf0d80-940d-11eb-8ddc-d4ccc6bc65d1.PNG)
+
+Selanjutnya cara menambahkan Hyperlink. Bisa dilihat pada baris pertma nomer 1 sampai ke nomer 6
+
+![12](https://user-images.githubusercontent.com/81820997/113436208-82cf2a80-940e-11eb-96b6-d89d17fcee2f.PNG)
+
+![13](https://user-images.githubusercontent.com/81820997/113436212-85318480-940e-11eb-9064-9f3e987f13ae.PNG)
