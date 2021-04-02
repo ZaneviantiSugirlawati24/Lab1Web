@@ -1,17 +1,31 @@
 # Lab1Web
-HTML dasar
+
 Saya akan membuat html dengan menggunakan visual studio code.
-gambar dibawah ini adalah code dasar membuat html menggunkan vs code. Pertama membuat file yg di simpan dengan nama lab1_tag_dasar.html
+Pertama membuat file yg di simpan dengan nama lab1_tag_dasar.html. Gambar dibawah ini adalah code dasar membuat html menggunkan vs code.
+
 ![1](https://user-images.githubusercontent.com/81820997/113430834-0f74eb00-9405-11eb-9a14-191c1818ba1f.PNG)
-gamabar ini hasil dari yg diatas
+
+Hasilnya seperti ini
+
 ![2](https://user-images.githubusercontent.com/81820997/113430873-1d2a7080-9405-11eb-83eb-ae7323bf93db.PNG)
-selanjutnya cara memasukan paragrap atau kalimat pada html, dan disini juga saya memasukan code untuk menambahkan judul dari kalimat tersebut
+
+Selanjutnya cara memasukan paragraf atau kalimat pada html menggunakan tag <p>text</p>.
+Untuk menambahkan judul menggunkan tag <h>text</h>.
+
 ![3](https://user-images.githubusercontent.com/81820997/113430888-21568e00-9405-11eb-9a62-dfecc32eb9dd.PNG)
-hasilnya seperti ini
+
+Hasilnya seperti ini
+
 ![4](https://user-images.githubusercontent.com/81820997/113430930-3501f480-9405-11eb-85a2-a6e045f86412.PNG)
-kemudian saya mengubah teks menjadi, berwarna, garis miring, blod line
+
+kemudian cara mengubahan text, contohnya dibawah ini :
+> Warna dengan tag <font style = "background: color;"> text</font>
+> Garis miring dengan tag <i>text</i>
+> Blod menggunakan tag <b>text</b>
+
 ![5](https://user-images.githubusercontent.com/81820997/113430938-37644e80-9405-11eb-9e55-33ad41c39f4a.PNG)
 ![6](https://user-images.githubusercontent.com/81820997/113430943-392e1200-9405-11eb-9b35-a480616df397.PNG)
+
 ![7](https://user-images.githubusercontent.com/81820997/113430949-3a5f3f00-9405-11eb-9802-880a245cf07a.PNG)
 ![8](https://user-images.githubusercontent.com/81820997/113430954-3cc19900-9405-11eb-9d6d-a10c6d6dbfd3.PNG)
 ![9](https://user-images.githubusercontent.com/81820997/113430966-3f23f300-9405-11eb-876f-640344b6cd57.PNG)
