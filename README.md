@@ -17,7 +17,9 @@ Dan juga cara menambah jdudl pada paragraf pada komentar "judul paragraf"
 
 ![4](https://user-images.githubusercontent.com/81820997/113434476-3e8e5b00-940b-11eb-8b8c-e250cbd80340.PNG)
 
+Selanjutnya cara mengubah text pada paragraf.
 
+Mengubah warna mekamakai tag "font", blod menggunakan tag "b", garing miring menggunakan tag "i", dan underline menggunakan tag "u"
 
 ![5](https://user-images.githubusercontent.com/81820997/113434824-d9873500-940b-11eb-8bce-569b2e3ce229.PNG)
 
