@@ -57,9 +57,9 @@ Jawab Pertanyaan Berikut
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? Ya terjadi error pada penulisan tag
 
-3. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya! Tag <p> memiliki pasangan penutup pada akhir paragraf, sedangkan tag <br> tidak memiliki pasangan penutup
+3. Apa perbedaan dari tag "p" dengan tag "br", berikan penjelasannya! Tag "p" memiliki pasangan penutup pada akhir paragraf, sedangkan tag "br" tidak memiliki pasangan penutup
  
-5. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya! tittle imgae adalah atribut yang dapat di tambahkan ke tag gambar dalam HTML, sedangkan tittle alt sebagai wadah ketika gambar tidak bisa ditampilkan
+5. Apa perbedaan atribut title dan alt pada tag "img", berikan penjelasannya! tittle imgae adalah atribut yang dapat di tambahkan ke tag gambar dalam HTML, sedangkan tittle alt sebagai wadah ketika gambar tidak bisa ditampilkan
  
 7. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! Ya, agar lebih tepat saat ingin mengubahnya
 
