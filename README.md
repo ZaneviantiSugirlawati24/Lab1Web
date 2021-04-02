@@ -25,3 +25,10 @@ Mengubah warna mekamakai tag "font", blod menggunakan tag "b", garing miring men
 
 
 ![7](https://user-images.githubusercontent.com/81820997/113434958-17845900-940c-11eb-873a-08624d45c15d.PNG)
+
+Pada gambar ini saya mencoba mengubah paragraf kedua menjadi text yang lebih besar dari sebelumnya. Cara merubahnya menggunakan tag "big"
+
+![8](https://user-images.githubusercontent.com/81820997/113435358-d0e32e80-940c-11eb-86e9-a186ba26afc1.PNG)
+
+![0](https://user-images.githubusercontent.com/81820997/113435498-21f32280-940d-11eb-8dcf-7fb28c8bd126.PNG)
+
