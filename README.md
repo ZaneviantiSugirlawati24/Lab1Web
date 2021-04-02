@@ -21,3 +21,5 @@ Dan juga cara menambah jdudl pada paragraf pada komentar "judul paragraf"
 
 ![5](https://user-images.githubusercontent.com/81820997/113434824-d9873500-940b-11eb-8bce-569b2e3ce229.PNG)
 
+
+![7](https://user-images.githubusercontent.com/81820997/113434958-17845900-940c-11eb-873a-08624d45c15d.PNG)
