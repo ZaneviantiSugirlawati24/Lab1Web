@@ -8,4 +8,12 @@ Pertama membuat file yg di simpan dengan nama lab1_tag_dasar.html. Gambar dibawa
 
 ![2](https://user-images.githubusercontent.com/81820997/113430873-1d2a7080-9405-11eb-83eb-ae7323bf93db.PNG)
 
+Kemudian cara menambahkan paragraf pada html seperti dibawah ini menggunakan tag pada komentar <!-- Ini adalah paragraf pertama --> atau <!-- Ini adalah paragraf kedua -->
+
+Dan juga cara menambah
+
+![3](https://user-images.githubusercontent.com/81820997/113434331-f2431b00-940a-11eb-96cf-5bd30693a6d6.PNG)
+
+
+![4](https://user-images.githubusercontent.com/81820997/113434476-3e8e5b00-940b-11eb-8b8c-e250cbd80340.PNG)
 
