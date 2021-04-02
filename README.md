@@ -32,3 +32,7 @@ Pada gambar ini saya mencoba mengubah paragraf kedua menjadi text yang lebih bes
 
 ![0](https://user-images.githubusercontent.com/81820997/113435498-21f32280-940d-11eb-8dcf-7fb28c8bd126.PNG)
 
+
+![10](https://user-images.githubusercontent.com/81820997/113435773-acd41d00-940d-11eb-8515-a0e1ea316887.PNG)
+
+![11](https://user-images.githubusercontent.com/81820997/113435780-afcf0d80-940d-11eb-8ddc-d4ccc6bc65d1.PNG)
