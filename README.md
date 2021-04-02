@@ -43,3 +43,11 @@ Selanjutnya cara menambahkan Hyperlink. Bisa dilihat pada baris pertma nomer 1 s
 ![12](https://user-images.githubusercontent.com/81820997/113436208-82cf2a80-940e-11eb-96b6-d89d17fcee2f.PNG)
 
 ![13](https://user-images.githubusercontent.com/81820997/113436212-85318480-940e-11eb-9064-9f3e987f13ae.PNG)
+
+Yang terakhir saya mengubah latar dasar menjadi warna abu - abu
+
+![15](https://user-images.githubusercontent.com/81820997/113436552-1c96d780-940f-11eb-9874-906e872135d0.PNG)
+
+![16](https://user-images.githubusercontent.com/81820997/113436558-1ef93180-940f-11eb-9b15-b65623958edc.PNG)
+
+Sekian penjelsan yang saya buat, terimaksih.
